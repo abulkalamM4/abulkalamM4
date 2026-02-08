@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**abulkalamM4/abulkalamM4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi 👋,
+A Passionate Full Stack Developer from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎓  I'm currently pursuing a B.Tech in CSE
+✉️  You can contact me at abhishekganvirr@gmail.com
+✨️ My best work till now IntervueAI
+🚀 Interested in future tech
+
+Skills
+HTML5 CSS             
+
+
+Connect with me
+abhishek ganvir alright.abhi abhishekganvir
+
